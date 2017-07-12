@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

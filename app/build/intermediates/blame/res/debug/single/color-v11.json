@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

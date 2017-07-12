@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/83fb571fe7ea8e412e4eeaf816ad785d1fd01a0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_97bfa6b3f5908abd58bbb7770885b8412a1b80cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/e5bba7b6500612834824f22712450f07521735d3/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_db6d9b90be583eb52a50772a747080d6e6fb0eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/b8ebe2c87a0506f7a44bd8ef3a1be960a097d29c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_6e7e15287ea79e6fe2004c80a09ed5fe3d4c3ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/d8c66bc0e7dcbbf61212efb59917c7da7d13ed69/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_fddff59bfc85c0220d194073999a2445df5aa711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/b8ebe2c87a0506f7a44bd8ef3a1be960a097d29c/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bdabcac50973c5adcf44b2089732f4108a6b80a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/ed44c49ae7b48d4c15eb0f4ecff9871c5c266520/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_97fa1eae0e1306d81cd806eb030ebef8654ea435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/31d1cf5caef69cb831a0288824c1ea3fafa86fcf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_01cf7d38b5340bfbccba79ff5d6208be7cf388fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/e5bba7b6500612834824f22712450f07521735d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_4d1a7a93fa1f3be3adc80ac26163128f5ef5f2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/ed44c49ae7b48d4c15eb0f4ecff9871c5c266520/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_26e05e58a3cbb41b603263bb3ef7adbfe545a682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/f2ed07f334799d94b1a282da596566a34fcba91a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_2182b9de865e38ad6da39325e53dfd6d33d0f969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/f46e69a2b7e593da1c7493fcf12515098e5b9335/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_02279855adff94c83099be8bc19e99cfcbce90a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/6c8f85e5b2b80d4803d2a41a495035a66c2a6a12/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_49e8a8ebb74fe786352ae8a28057293ac03f3505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/31d1cf5caef69cb831a0288824c1ea3fafa86fcf/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_40c76790371ce1deb1a6539f7748417c44c5e345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8d82dd4c8c029206204865e4f09747f1502b7150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/.android/build-cache/6c8f85e5b2b80d4803d2a41a495035a66c2a6a12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/nali/workspace/EndCallAndClearCacheDemo1/app/build/intermediates/pre-dexed/debug/classes_f6eb3cab7fa56c78baa7d0e27beec7d2234847f7.jar" />
+    </item>
+
+</items>
